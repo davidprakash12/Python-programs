@@ -1,0 +1,5 @@
+print('\n1.Allahabad')
+print('\n2.Delhi')
+print('3.Kanpur')
+print('4.Prayagraj')
+print('5.Lucknow')
